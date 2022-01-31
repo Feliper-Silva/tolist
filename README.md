@@ -1,20 +1,29 @@
 # To-Do-List
 
-Lista que está consumindo dados de uma Api, nela pode adicionar é excluir alguma tarefa que quiser. Quando concluida é so clicar em cima do nome da tarefa que ira ficar verde.
+### Features:
+- [x] Adicionar tarefa
+- [x] Excluir tarefa
+- [x] Marcar tarefa concluida ou desmarcar tarefa.
+- [x] Receber dados de uma Api.
 
-## Tecnologias usada:
+
+### Tecnologias:
 
 - Reacjs
 - JavaScript
 
-## Como rodar aplicação:
+### Utilizar:
 
 ```bash
 git clone https://github.com/Feliper-Silva/tolist
-
 ```
-
+- Yarn
 ```bash
-npm start or yarn star
-
+yarn start
 ```
+- Npm
+```bash
+npm start
+```
+
+© MIT [Felipe Silva](https://linkedin.com/in/feliper-silva)
